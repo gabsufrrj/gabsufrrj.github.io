@@ -55,4 +55,8 @@
         left: 60px;
     }
 
-   
+   ul li:nth-child(odd) {
+    
+    background-color: red;
+
+   }
