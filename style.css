@@ -1,11 +1,11 @@
     h1 {
-        font-family: fantasy;
+        font-family: fantasy, sans-serif;
         text-align: center;
         font-size: 100px;
     }
 
     h2 {
-        font-family: cursive;
+        font-family: cursive, sans-serif;
         text-align: center;
         font-size: 40px;
     }
